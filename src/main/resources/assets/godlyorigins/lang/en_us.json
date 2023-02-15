@@ -1,0 +1,32 @@
+{
+  "item.godlyorigins.fire_god_shard": "Fire God Shard",
+  "item.godlyorigins.metal_god_shard": "Metal God Shard",
+  "item.godlyorigins.water_god_shard": "Water God Shard",
+  "item.godlyorigins.wind_god_shard": "Wind God Shard",
+  "item.godlyorigins.wood_god_shard": "Wood God Shard",
+
+  "item.godlyorigins.fire_god_shard_item.tooltip1": "WARNING!",
+  "item.godlyorigins.fire_god_shard_item.tooltip2": "If you are a Half God, this",
+  "item.godlyorigins.fire_god_shard_item.tooltip3": "Shard of the Fire God will purge",
+  "item.godlyorigins.fire_god_shard_item.tooltip4": "your Sire's power from you!",
+
+  "item.godlyorigins.metal_god_shard_item.tooltip1": "WARNING!",
+  "item.godlyorigins.metal_god_shard_item.tooltip2": "If you are a Half God, this",
+  "item.godlyorigins.metal_god_shard_item.tooltip3": "Shard of the Metal God will purge",
+  "item.godlyorigins.metal_god_shard_item.tooltip4": "your Sire's power from you!",
+
+  "item.godlyorigins.water_god_shard_item.tooltip1": "WARNING!",
+  "item.godlyorigins.water_god_shard_item.tooltip2": "If you are a Half God, this",
+  "item.godlyorigins.water_god_shard_item.tooltip3": "Shard of the Water God will purge",
+  "item.godlyorigins.water_god_shard_item.tooltip4": "your Sire's power from you!",
+
+  "item.godlyorigins.wind_god_shard_item.tooltip1": "WARNING!",
+  "item.godlyorigins.wind_god_shard_item.tooltip2": "If you are a Half God, this",
+  "item.godlyorigins.wind_god_shard_item.tooltip3": "Shard of the Wind God will purge",
+  "item.godlyorigins.wind_god_shard_item.tooltip4": "your Sire's power from you!",
+
+  "item.godlyorigins.wood_god_shard_item.tooltip1": "WARNING!",
+  "item.godlyorigins.wood_god_shard_item.tooltip2": "If you are a Half God, this",
+  "item.godlyorigins.wood_god_shard_item.tooltip3": "Shard of the Wood God will purge",
+  "item.godlyorigins.wood_god_shard_item.tooltip4": "your Sire's power from you!"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wind God Child",
+    "description": "Your sire is an Elemental god of Wind",
+    "powers": [
+        
+    ],
+    "icon": "minecraft:feather",
+    "order": 1,
+    "impact": 1
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Fire God Child",
+    "description": "Your sire is an Elemental god of Fire",
+    "powers": [
+        
+    ],
+    "icon": "minecraft:red_dye",
+    "order": 1,
+    "impact": 1
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Half-God",
+    "description": "You are the child of a god. You have a minor blessing based on the powers of your sire.",
+    "powers": [
+    ],
+    "icon": "minecraft:bone_meal",
+    "order": 1,
+    "impact": 0,
+    "loading_priority": 1
+}

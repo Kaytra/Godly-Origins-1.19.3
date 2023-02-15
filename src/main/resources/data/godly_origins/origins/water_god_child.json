@@ -1,0 +1,10 @@
+{
+    "name": "Water God Child",
+    "description": "Your sire is an Elemental god of Water",
+    "powers": [
+        
+    ],
+    "icon": "minecraft:prismarine_crystals",
+    "order": 1,
+    "impact": 1
+}

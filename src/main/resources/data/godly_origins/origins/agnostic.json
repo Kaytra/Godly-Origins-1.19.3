@@ -1,0 +1,11 @@
+{
+    "name": "Agnostic",
+    "description": "You neither follow nor condem the gods. You receave no benefits, nor do you receave their curses.\nHowever, you may be swayed to belief...",
+    "powers": [
+
+    ],
+    "icon": "minecraft:bone_meal",
+    "order": 1,
+    "impact": 0,
+    "loading_priority": 1
+}

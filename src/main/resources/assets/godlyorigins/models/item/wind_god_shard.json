@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "godlyorigins:item/wind_god_shard"
+  }
+}

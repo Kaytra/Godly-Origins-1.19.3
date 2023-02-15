@@ -1,0 +1,10 @@
+{
+    "name": "Wood God Child",
+    "description": "Your sire is an Elemental god of Wood",
+    "powers": [
+        
+    ],
+    "icon": "minecraft:oak_wood",
+    "order": 1,
+    "impact": 1
+}

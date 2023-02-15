@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "name": "Half God Origin",
+    "order": 7,
+    "origins": [{
+        "condition": {
+            "type": "origins:origin",
+            "origin": "godly_origins:half_god",
+            "layer": "origins:deity"
+        },
+        "origins": [
+            "godly_origins:fire_god_child",
+            "godly_origins:metal_god_child",
+            "godly_origins:water_god_child",
+            "godly_origins:wind_god_child",
+            "godly_origins:wood_god_child"
+        ]
+    }]
+}

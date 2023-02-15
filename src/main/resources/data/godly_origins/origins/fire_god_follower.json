@@ -1,0 +1,10 @@
+{
+  "name": "Fire God Follower",
+  "description": "You are a follower of the Elemental Fire God",
+  "powers": [
+
+  ],
+  "icon": "minecraft:red_dye",
+  "order": 1,
+  "impact": 1
+}

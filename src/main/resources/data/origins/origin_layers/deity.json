@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "name": "Belief/Sire",
+    "order": 6,
+    "origins": [
+        "godly_origins:agnostic",
+        "godly_origins:half_god"
+    ],
+    "enabled": true
+}

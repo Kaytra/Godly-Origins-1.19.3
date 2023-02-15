@@ -1,0 +1,10 @@
+{
+    "name": "Metal God Child",
+    "description": "Your sire is an Elemental god of Metal",
+    "powers": [
+        
+    ],
+    "icon": "minecraft:raw_iron",
+    "order": 1,
+    "impact": 1
+}
